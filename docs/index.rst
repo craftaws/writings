@@ -10,6 +10,8 @@ Welcome to craftaws's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   why-building-aws-lambda-using-springboot
+
 
 
 Indices and tables
